@@ -79,6 +79,46 @@ body {
 	color: #6c757d;
 }
 
+.intro-wrapper {
+	background: #f8f9fa;
+	padding: 40px 0;
+}
+
+.intro-heading,
+.location-heading {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.intro-heading h3 {
+	font-size: 16px;
+}
+
+.intro-heading h5 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.intro-content {
+	text-align: center;
+}
+
+.intro-content i {
+	font-size: 24px;
+	color: #7487f9;
+}
+
+.intro-content h3 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.intro-content p {
+	font-size: 16px;
+	padding: 10px 20px;
+	color: #868e96;
+}
+
 .title-main-wrapper {
 	background: #f8f9fa;
 	padding-top: 20px;
@@ -208,4 +248,13 @@ body {
 .cl-form h4	{
 	font-size: 18px;
 	font-weight: bold;
+}
+
+.location {
+	padding: 30px 0;
+}
+
+.location-block {
+	width: 20%;
+	padding: 0 15px;
 }
