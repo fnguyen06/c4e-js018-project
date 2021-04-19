@@ -25,6 +25,20 @@ body {
 	height: 600px;
 }
 
+.text-banner {
+	position: absolute;
+	top: 330px;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	color: #fff;
+/*	z-index: 9999;
+	color: #fff;
+	left: 0;
+	right: 0;
+	margin: 0 auto;*/
+}
+
 .search-option {
     position: absolute;
     top: 415px;
