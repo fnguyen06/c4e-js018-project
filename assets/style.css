@@ -27,7 +27,7 @@ body {
 
 .search-option {
     position: absolute;
-    top: 300px;
+    top: 415px;
     right: 0;
     left: 0;
     margin: 0 auto;
@@ -257,4 +257,59 @@ body {
 .location-block {
 	width: 20%;
 	padding: 0 15px;
+}
+
+.review {
+	margin-bottom: 50px;
+}
+
+.review h5 {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.review-block {
+	position: relative;
+	padding: 0 50px;
+	width: 50%;
+}
+
+.review-block img {
+	position: absolute;
+	border-radius: 50%;
+	top: 20px;
+	width: 60px;
+	height: 60px;
+}
+
+.review-block p {
+	padding: 30px;
+}
+
+.ft-links li {
+	float: left;
+	display: inline-block;
+}
+
+.ft-links li i {
+	font-size: 24px;
+	padding-right: 15px;
+}
+
+.ft-2nd {
+	background: #4c4c4c;
+	display: block;
+	text-align: center;
+}
+
+.ft-2nd p {
+	color: #fff;
+	display: inline-block;
+	padding: 10px 0;
+	margin-bottom: 0;
+
+}
+
+.ft-outer {
+	background: #e9ecef;
 }
